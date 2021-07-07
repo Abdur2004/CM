@@ -1,0 +1,109 @@
+body{
+  background-color: #C0C0C0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+
+h1{
+  margin: 0;
+    color: red;
+    font-style: italic;
+    border: 5px solid #7FFF00;
+
+
+  }
+
+
+  h11{
+    color: black;
+
+  }
+
+
+
+.extra-div1{
+width: 90%;
+margin-right: 50%;
+text-align: left;
+line-height: 2;
+
+}
+.btn{
+  color: red;
+  margin-right: 450px;
+}
+.ali-img{
+  width: 22%;
+float: left;
+margin-right:  30px;
+}
+h3{
+  font-family: 'Mukta Mahee', sans-serif;
+  margin-right: 450px;
+
+
+}
+
+
+
+
+.myDiv1{
+    background-image: url("images/aaas.jpg");
+
+}
+.asad{
+  border: 5px solid #7FFF00;
+  border-radius: 30px;
+}
+.s20-img{
+  width: 22%;
+float: right;
+/* margin: 0; */
+}
+.azk{
+  margin-left:  650px;
+}
+.azk1{
+  margin-left:  650px;
+  font-family: fantasy;
+}
+.azk2{
+  font-family: fantasy;
+}
+.azz{
+  width: 100%
+  color: #2F4F4F;
+  height: 150px;
+ background-color: #2F4F4F ;
+}
+.ar7{
+  color: white;
+  margin-top: 30px;
+}
+.footer-link{
+  padding: 25px;
+  border:
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
